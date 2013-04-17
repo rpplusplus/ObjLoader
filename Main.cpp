@@ -7,7 +7,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
-#include <GL/glut.h>
+#include <GLUT/glut.h>
 #include <eigen3/Eigen/Core>
 #include <vector>
 #include <exception>

@@ -9,7 +9,7 @@
 #define LOADER_H_
 
 #include<iostream>
-#include<GL/glut.h>
+#include<GLUT/glut.h>
 #include<string>
 #include<vector>
 #include<eigen3/Eigen/Core>
